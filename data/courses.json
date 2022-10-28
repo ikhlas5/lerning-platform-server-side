@@ -9,8 +9,9 @@
         "start":"30-10-2022",
         "price":"5500",
         "loaction":"Dhaka,Bd",
-        "ratting":"4.5"
-
+        "ratting":"4.5",
+        "dislike":"2"
+        
 
     },
     {
@@ -23,8 +24,8 @@
         "start":"30-10-2022",
         "price":"5500",
         "loaction":"Dhaka,Bd",
-        "ratting":"4.5"
-        
+        "ratting":"4.5" ,
+        "dislike":"2"
 
     },
     {
@@ -37,8 +38,8 @@
         "start":"30-10-2022",
         "price":"5500",
         "loaction":"Dhaka,Bd",
-        "ratting":"4.5"
-
+        "ratting":"4.5" ,
+        "dislike":"0"
 
     },
     {
@@ -51,8 +52,8 @@
         "start":"30-10-2022",
         "price":"5500",
         "loaction":"Dhaka,Bd",
-        "ratting":"4.5"
-
+        "ratting":"4.5",
+        "dislike":"2"
 
     },
     {
@@ -65,8 +66,8 @@
         "start":"30-10-2022",
         "price":"5500",
         "loaction":"Dhaka,Bd",
-        "ratting":"3.5"
-
+        "ratting":"3.5" ,
+        "dislike":"2"
 
     },
     {
@@ -79,8 +80,7 @@
         "start":"30-10-2022",
         "price":"5500",
         "loaction":"Dhaka,Bd",
-        "ratting":"5.0"
-
-
+        "ratting":"5.0" ,
+        "dislike":"1"
     }
 ]
