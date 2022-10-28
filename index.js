@@ -1,7 +1,7 @@
 const express=require('express');
 const app =express();
 const cors=require('cors')
-const port= process.env.PORt|| 50000;
+const port= process.env.PORt|| 5000;
 
 app.use(cors())
 // 1 get data
@@ -14,7 +14,7 @@ app.get('/', (req,res)=>{
 })
 
 // get catagories 
-app.get('courseCatagories',(req,res)=>{
+app.get('/courseCatagories',(req,res)=>{
     res.send(courseCatagories)
 })
 // get course
@@ -28,5 +28,5 @@ app.get('/course/:id',(req,res)=>{
     res.send(selectedCourse)
 })
 app.listen(port,()=>{
-    console.log('server running')
+    console.log('server running',port)
 })
