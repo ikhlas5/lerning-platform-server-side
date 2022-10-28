@@ -8,7 +8,8 @@
         "admission":"10-10-2022",
         "start":"30-10-2022",
         "price":"5500",
-        "loaction":"Dhaka,Bd"
+        "loaction":"Dhaka,Bd",
+        "ratting":"4.5"
 
 
     },
@@ -21,8 +22,9 @@
         "admission":"10-10-2022",
         "start":"30-10-2022",
         "price":"5500",
-        "loaction":"Dhaka,Bd"
-
+        "loaction":"Dhaka,Bd",
+        "ratting":"4.5"
+        
 
     },
     {
@@ -34,7 +36,8 @@
         "admission":"10-10-2022",
         "start":"30-10-2022",
         "price":"5500",
-        "loaction":"Dhaka,Bd"
+        "loaction":"Dhaka,Bd",
+        "ratting":"4.5"
 
 
     },
@@ -47,7 +50,8 @@
         "admission":"10-10-2022",
         "start":"30-10-2022",
         "price":"5500",
-        "loaction":"Dhaka,Bd"
+        "loaction":"Dhaka,Bd",
+        "ratting":"4.5"
 
 
     },
@@ -60,7 +64,8 @@
         "admission":"10-10-2022",
         "start":"30-10-2022",
         "price":"5500",
-        "loaction":"Dhaka,Bd"
+        "loaction":"Dhaka,Bd",
+        "ratting":"3.5"
 
 
     },
@@ -73,7 +78,8 @@
         "admission":"10-10-2022",
         "start":"30-10-2022",
         "price":"5500",
-        "loaction":"Dhaka,Bd"
+        "loaction":"Dhaka,Bd",
+        "ratting":"5.0"
 
 
     }
