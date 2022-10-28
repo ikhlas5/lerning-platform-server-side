@@ -18,7 +18,7 @@ app.get('/courseCatagories',(req,res)=>{
     res.send(courseCatagories)
 })
 // get course
-app.get('course',(req,res)=>{
+app.get('/course',(req,res)=>{
     res.send(course)
 })
 // get specifice data 
